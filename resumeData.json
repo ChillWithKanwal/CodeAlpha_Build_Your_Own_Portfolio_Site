@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Sana Kanwal",
+    "occupation": "Frontend Developer",
+    "description": "I can code, I can design, I can do both.",
+    "image": "profilepic.png",
+    "bio": "Hi there, I'm Sana. I'm a frontend developer with a passion for creating beautiful and functional web applications. I am a quick learner and I am always looking for new challenges.",
+    "contactmessage": "Get in touch with me to know more about me!",
+    "email": "kanwal.codes@gmail.com",
+    "phone": "+92 370 7763693",
+    "address": {
+      "street": "Daska Road",
+      "city": "Sialkot",
+      "state": "Punjab",
+      "zip": "51310"
+    },
+    "website": "https://receipt-tracker-build.vercel.app/",
+    "resumedownload": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fd8it4huxumps7.cloudfront.net%2Fuploads%2Fattachements%2Fuser-resumes%2F67f98078a1519_Sana_Kanwal_Resume.docx&wdOrigin=BROWSELINK",
+    "social": [
+      {     
+        "name": "youtube",
+        "url": "https://www.youtube.com/@SanaKanwal-dev",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kanwal.aurora.2025",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sanakanwal-dev/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kanwalify/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ChillWithKanwal",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Sialkot - Pakistan",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2025",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Frontend Developer",
+        "years": "May 2024 - Present",
+        "description": "I am a freelancer and I am working on various projects. I also provide services to clients. My clients are from different countries like USA, UK, Canada, Australia, etc. Let's talk about your project and I will help you to get it done."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "73%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Receipt Tracker SaaS (Next.js 15)",
+        "category": "",
+        "image": "Receipt Tracker SaaS.png",
+        "url": "https://receipt-tracker-build.vercel.app/"
+      },
+      {
+        "title": "E-Commerce Website (Next.js 15)",
+        "category": "",
+        "image": "E-Commerce Website.png",
+        "url": "https://ecommerce-app-navy-nine.vercel.app/"
+      },
+      {
+        "title": "AI Chatbot (Next.js 15)",
+        "category": "",
+        "image": "AI Chatbot.png",
+        "url": "https://ai-chatbot-build.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sana is a great developer and she is very helpful. I would definitely recommend her.",
+        "user": "John Smith"
+      },
+      {
+        "text": "Learning with Sana has been AWESOME, she makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Jane Doe"
+      }
+    ]
+  }
+}

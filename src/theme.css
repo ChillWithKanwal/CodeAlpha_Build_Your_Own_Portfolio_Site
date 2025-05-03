@@ -1,0 +1,53 @@
+:root {
+  /* Simplified Professional Color Palette */
+  --primary-color: #4f46e5;
+  --primary-dark: #4338ca;
+  --primary-light: #818cf8;
+  --secondary-color: #f59e0b;
+  
+  /* Neutral Colors */
+  --background: #ffffff;
+  --background-alt: #f8fafc;
+  --surface: #ffffff;
+  
+  /* Text Colors */
+  --text-primary: #1e293b;
+  --text-secondary: #64748b;
+  
+  /* Accent Colors */
+  --success: #10b981;
+  --error: #ef4444;
+  
+  /* Dark Mode Colors */
+  --dark-background: #0f172a;
+  --dark-background-alt: #1e293b;
+  --dark-text-primary: #f8fafc;
+  --dark-text-secondary: #cbd5e1;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  
+  /* Border Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  
+  /* Transitions */
+  --transition-normal: 0.3s ease;
+}
+
+/* Dark Mode */
+.dark-mode {
+  --background: var(--dark-background);
+  --background-alt: var(--dark-background-alt);
+  --text-primary: var(--dark-text-primary);
+  --text-secondary: var(--dark-text-secondary);
+} 
