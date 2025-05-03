@@ -1,9 +1,5 @@
-# Personal Portfolio - React Starter Pack
-
-![Portfolio Screenshot](resume-screenshot.jpg?raw=true "Personal Portfolio Screenshot")
-
 ## Live Demo
-Check out the live demo of the portfolio [here](https://your-live-demo-link.com).
+Check out the live demo of the portfolio [here](https://portfolio-site-6qt9hg5rs-sana-kanwals-projects-49f7cc6f.vercel.app/).
 
 ## Overview
 This Personal Portfolio is a modern, responsive web application built using React. It serves as a showcase for your skills, projects, and experiences, making it an essential tool for job applications and personal branding. The data displayed in the portfolio is dynamically linked to a JSON file, allowing for easy updates and customization.
@@ -28,7 +24,7 @@ Make sure you have [Node.js](https://nodejs.org/en/download/) installed on your 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd CodeAlpha_Build_Your_Own_Portfolio_Site
    ```
 3. Install the dependencies:
    ```bash
